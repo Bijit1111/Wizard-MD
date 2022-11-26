@@ -1,7 +1,7 @@
 {
-  "name": "wizard",
+  "name": "lisa",
   "version": "1.0.0",
-  "description": "Multi device whatsapp bot by Ajmal",
+  "description": "Multi device whatsapp bot by Bijit ",
   "main": "starter.js",
   "type": "commonjs",
   "scripts": {
@@ -19,7 +19,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Drips",
+  "author": "bijit",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.4.0",
